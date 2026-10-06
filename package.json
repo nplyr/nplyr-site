@@ -1,0 +1,22 @@
+{
+  "name": "nplyr-site",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Official website for nPlyr — a macOS clipboard manager with AI actions, featuring documentation, FAQ, and Action Marketplace",
+  "main": "index.js",
+  "packageManager": "pnpm@10.26.0",
+  "homepage": "https://player.w3cub.com",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:deploy": "./deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nuezip", "archive", "compression", "macos", "zip", "rar", "7z", "file-manager"],
+  "author": "NueZip Project",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
