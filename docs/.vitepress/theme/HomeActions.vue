@@ -18,7 +18,7 @@ import { withBase } from 'vitepress'
       />
     </a>
     <a
-      href="https://github.com/clipboxAI"
+      href="https://github.com/nPlyr"
       target="_blank"
       rel="noopener noreferrer"
       class="btn-github"

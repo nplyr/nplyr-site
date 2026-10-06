@@ -27,7 +27,7 @@ export default {
       // Reactive getters (called inside the render below so Vue tracks route.path).
       const isHomePage = () =>
         route.path === '/' ||
-        /^\/(zh-CN|zh-TW|ja|de|es|fr)\/?$/.test(route.path)
+        /^\/(zh-CN|zh-TW)\/?$/.test(route.path)
 
       return () => {
         if (isHomePage()) {

@@ -51,8 +51,8 @@ We may update these Terms from time to time. Continued use after changes constit
 ## Contact
 
 For questions about these Terms, open an issue at the project repository:
-`https://github.com/clipboxAI/clipboard-site/issues`
+`https://github.com/nPlyr/nPlyr-site/issues`
 
-Or email us at: clipboxai@w3cub.com
+Or email us at: nPlyr@w3cub.com
 
 *Last updated: August 5, 2026*

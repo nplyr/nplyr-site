@@ -110,7 +110,7 @@ const currentLang = computed(() => {
 // Build the language list from the configured locales, keeping the user on the
 // same relative path when they switch language.
 function stripLangPrefix(p: string): string {
-  const m = p.match(/^\/(zh-CN|zh-TW|ja|de|es|fr)(\/.*)?$/)
+  const m = p.match(/^\/(zh-CN|zh-TW)(\/.*)?$/)
   return m ? (m[2] || '/') : p
 }
 const localeLinks = computed(() => {
