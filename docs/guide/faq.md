@@ -48,3 +48,10 @@ number of imported mini-programs; a one-time unlock removes that limit.
 **Q: Which languages is the UI available in?**
 
 A: 25 languages, switchable live from Settings without restarting.
+
+**Q: Where can I get help or join the community?**
+
+A: Join the conversation on our [Discord](https://discord.com/invite/XNUhXyDn3S). We also run
+Tencent channels: [QQ Channel](https://pd.qq.com/s/3t9yceyuu?b=9) is the official nPlyr channel,
+and [新方圆小棉袄](https://pd.qq.com/s/bkgmqdzzf?b=9) is the original Android author's channel,
+a great place for more sources and discussion.

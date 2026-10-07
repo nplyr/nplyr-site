@@ -35,3 +35,7 @@
 **问：界面提供哪些语言？**
 
 答：25 种语言，可在设置中实时切换，无需重启。
+
+**问：在哪里可以获取帮助或加入社区？**
+
+答：欢迎加入我们的 [Discord](https://discord.com/invite/XNUhXyDn3S) 频道交流。我们也开通了腾讯频道：[腾讯频道](https://pd.qq.com/s/3t9yceyuu?b=9) 是 nPlyr 官方频道，[新方圆小棉袄](https://pd.qq.com/s/bkgmqdzzf?b=9) 是 Android 原作者的原始频道，可以在那里找到更多资源与讨论。

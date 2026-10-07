@@ -35,3 +35,7 @@
 **問：介面提供哪些語言？**
 
 答：25 種語言，可在設定中即時切換，無需重新啟動。
+
+**問：在哪裡可以獲取協助或加入社群？**
+
+答：歡迎加入我們的 [Discord](https://discord.com/invite/XNUhXyDn3S) 頻道交流。我們也開通了騰訊頻道：[騰訊頻道](https://pd.qq.com/s/3t9yceyuu?b=9) 是 nPlyr 官方頻道，[新方圆小棉袄](https://pd.qq.com/s/bkgmqdzzf?b=9) 是 Android 原作者的原始頻道，可以在那裡找到更多資源與討論。
