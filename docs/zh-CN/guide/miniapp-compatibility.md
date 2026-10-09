@@ -56,7 +56,7 @@ nPlyr 原生重实现了桥接与规则 DSL，并添加了一个兼容层，模�
 - **小缓冲区（≤ 4096 B）**→ 真正的 JS `Array<number>`，带有 `.length` *属性*（Java 数组语义），并且位运算可用（例如某类图片解密规则中常见的 `toHex` 写法）。
 - **大缓冲区（图片等）**→ 一个宿主提供的字节数组对象，仅暴露 `length` / `toBase64` / `toHex` / `utf8String` / `slice`。你**无法**对大形式做逐字节访问——第三方图片解密链路依赖的是宿主方法。
 
-### `FileUtil.toInputStream`（漫画图片解密）
+### `FileUtil.toInputStream`
 
 在 Android 上它返回一个 Java `InputStream`。nPlyr **替换**了这条路径：它拦截一个被拦截流的标记，将其转换为从应用缓存提供的本地图片 URL，并将图片交回视图。期望*自己读取流*的规则必须依赖这个宿主转换，而不是去打开一个 `InputStream`。
 

@@ -86,7 +86,7 @@ This trips up image-decryption rules in particular:
   access on the large form — third-party image-decryption chains rely on the host
   methods instead.
 
-### `FileUtil.toInputStream` (comic image decryption)
+### `FileUtil.toInputStream`
 
 On Android this returns a Java `InputStream`. nPlyr **replaces** that path: it intercepts
 an intercepted-stream marker, converts it to a local picture URL served from the app's
