@@ -5,7 +5,7 @@ import { withBase } from 'vitepress'
 <template>
   <div class="home-badge-row">
     <a
-      href="https://apps.apple.com/app/id6793567982" target="_blank" rel="noopener noreferrer"
+      href="https://apps.apple.com/app/id6797516487" target="_blank" rel="noopener noreferrer"
       class="store-badge-link"
       aria-label="Download nPlyr"
     >
