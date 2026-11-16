@@ -17,7 +17,7 @@ nPlyr 來自同一個 Xcode 工程的兩個 target：
 
 Mac App Store 版本經過沙盒化並由 Apple 簽署，因此無需額外設定。
 
-### 側載（開發 / TestFlight）
+### 從原始碼建構
 
 如果你從原始碼建構，請打開 `nPlyr.xcodeproj`，選擇 **`nPlyr`** scheme，並在「My Mac」上執行。開發簽署建構在首次使用瀏覽器或下載功能時，可能會提示你授予[權限](/zh-TW/guide/permissions)中描述的權限。
 

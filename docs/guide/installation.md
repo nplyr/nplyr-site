@@ -18,7 +18,7 @@ Both share the same playback core and rule engine.
 
 The Mac App Store build is sandboxed and signed by Apple, so no extra setup is required.
 
-### Sideload (development / TestFlight)
+### Building from source
 
 If you build from source, open `nPlyr.xcodeproj`, select the **`nPlyr`** scheme and run
 on "My Mac". A development-signed build may prompt you to grant the permissions described

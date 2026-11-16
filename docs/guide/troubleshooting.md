@@ -6,7 +6,7 @@ This page collects common problems with nPlyr on macOS and iOS and how to resolv
 
 1. Make sure your OS meets the minimum (macOS 14 Sonoma+, or iOS / iPadOS 16+).
 2. Quit and relaunch the app.
-3. If you sideloaded a development build, make sure the provisioning profile is still
+3. If you are running a development build, make sure its provisioning profile is still
    valid.
 
 ## A video won't play (spins or shows an error)

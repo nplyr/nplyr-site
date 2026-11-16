@@ -1,12 +1,10 @@
 # nPlyr Website
 
-This repository hosts the official website for **nPlyr** — a macOS clipboard manager with AI actions. The site uses the custom domain `player.w3cub.com`.
-
-
+This repository hosts the official website for **nPlyr** — a native video player for macOS and iOS built on AVFoundation, with a built-in media sniffer and a mini-program runtime. The site uses the custom domain `player.w3cub.com`.
 
 ## Documentation
 
-This site is built with [VitePress](https://vitepress.dev/) and contains guides, FAQs, and the **Action Marketplace** (`/marketplace`) for nPlyr.
+This site is built with [VitePress](https://vitepress.dev/) and contains the guides, FAQs, privacy and terms pages for nPlyr.
 
 ### Getting Help
 
@@ -48,7 +46,7 @@ pnpm docs:preview
 
 ## Deployment
 
-This site can be deployed to GitHub Pages; the workflow includes a step to add a `CNAME` for the custom domain `nuezip.w3cub.com`.
+This site can be deployed to GitHub Pages; the workflow includes a step to add a `CNAME` for the custom domain `player.w3cub.com`.
 
 ### Manual Deployment
 
@@ -56,12 +54,7 @@ To deploy manually:
 
 1. Build the site: `pnpm docs:build`
 2. The built files will be in `docs/.vitepress/dist`
-3. Copy any IAP pet files into the dist `pets/` directory
-4. Deploy to your hosting platform or push to `gh-pages`
-
-## IAP Pet Files
-
-The `pets/` directory stores downloadable `.catpet` files for in-app purchase pets. These files are copied into the build during deployment so users can download purchased pets.
+3. Deploy to your hosting platform or push to `gh-pages`
 
 ## Contributing
 

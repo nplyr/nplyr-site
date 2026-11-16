@@ -128,7 +128,7 @@ categories:
 steps:
   - num: "01"
     title: Install & Launch
-    desc: Get nPlyr from the Mac App Store or sideload the iOS build, then launch from the Dock or Home Screen.
+    desc: Download nPlyr from the App Store on your Mac or iPhone, then launch it from the Dock or Home Screen.
   - num: "02"
     title: Open a Video
     desc: Drop a file or paste a link into the home player, or use the built-in browser to find a stream.

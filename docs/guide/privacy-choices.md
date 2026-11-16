@@ -21,11 +21,12 @@ of — the app simply does not send your data to us.
 
 ## Your Rights
 
-Since nPlyr does not collect or store personal data on our servers, there is no personal data for us to access, delete, or transfer. All your data can be managed directly within the app or by removing the app's container folder:
+Since nPlyr does not collect or store personal data on our servers, there is no personal data for us to access, delete, or transfer. You can manage or remove all of your data at any time:
 
-```bash
-rm -rf ~/Library/Containers/com.w3cub.nPlyr
-```
+- On macOS: **Settings → Advanced → Reset** clears local app data; uninstalling the app removes its container.
+- On iOS / iPadOS: **Settings → Advanced → Reset** clears local app data; deleting the app removes its data.
+
+No command line or external tool is required.
 
 ## Do Not Sell
 

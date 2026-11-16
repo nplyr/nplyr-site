@@ -128,7 +128,7 @@ categories:
 steps:
   - num: "01"
     title: 安裝並啟動
-    desc: 從 Mac App Store 取得 nPlyr，或側載 iOS 版本，然後從 Dock 或主畫面啟動。
+    desc: 從 App Store 在 Mac 或 iPhone 上下載 nPlyr，然後從 Dock 或主畫面啟動。
   - num: "02"
     title: 開啟一個影片
     desc: 將檔案拖入主播放器，或貼上連結，也可以使用內建瀏覽器尋找影片串流。

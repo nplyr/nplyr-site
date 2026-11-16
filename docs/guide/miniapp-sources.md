@@ -21,6 +21,19 @@ list of video sources; instead you bring your own, and the in-app manager import
   [Mini-Programs overview](/guide/miniapps) and the
   [Compatibility](/guide/miniapp-compatibility) boundary first.
 
+## Try a sample source
+
+To see a mini-program working end to end, paste this publicly shared sample code in the
+**Mini-Programs → Add** screen:
+
+```
+云5oooole/kgg4
+```
+
+Tap **Parse & Confirm**, review the imported rule, then confirm to add it. The sample is a
+"GameView" navigation list. It is fetched from a public cloud clipboard only when you
+confirm — nPlyr never imports or runs rules automatically.
+
 ## Adding a source
 
 1. Open **Mini-Programs** in nPlyr (the manager window on macOS, a page on iOS).

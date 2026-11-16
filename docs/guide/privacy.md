@@ -16,8 +16,18 @@ nPlyr only uses the network when *you* ask it to:
 - Streaming or downloading a video you opened or captured.
 - Browsing with the built-in sniffer.
 - Running a mini-program / rule source that you imported.
+- Fetching the list of other apps offered in the app, from our public app-list endpoint.
 
 We do not operate a server that receives your media, history or mini-program variables.
+
+**Cloud sharing (optional).** If you choose to share a mini-program, nPlyr uploads the rule
+you selected to the public cloud clipboard provider you pick (TextDB, `cmd.im` or
+`pasteme`). Only the rule you explicitly share is uploaded — never your history, bookmarks,
+downloads or variables. This happens only when you tap Share; you can use the app without it.
+
+**Local network casting (optional).** The casting feature runs a small HTTP service on your
+local network only. It is not reachable from the public internet and is used solely to stream
+to a device you select.
 
 ## The Browser
 

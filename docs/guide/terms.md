@@ -4,7 +4,7 @@ These Terms govern your use of nPlyr. By downloading, installing, or using nPlyr
 
 ## License and Use
 
-nPlyr is provided under the license terms included with each release. You are granted a limited, non-exclusive, non-transferable license to use the application on your Mac in accordance with the license terms.
+nPlyr is provided under the license terms included with each release. You are granted a limited, non-exclusive, non-transferable license to use the application on your Mac or iOS device in accordance with the license terms.
 
 ## Local-First Operation
 
@@ -20,13 +20,13 @@ Mini-programs and rule sources are provided by the community, not by nPlyr. nPly
 
 ## Purchases
 
-A full-feature license (if offered) is available via the Mac App Store. All purchases are processed by Apple. nPlyr does not handle payment information. Purchase restoration is supported for reinstalls.
+A full-feature license is available as an in-app purchase on the Mac App Store and the iOS App Store. All purchases are processed by Apple. nPlyr does not handle payment information. Purchase restoration is supported for reinstalls.
 
 ## User Responsibilities
 
 - Use nPlyr lawfully and in compliance with applicable rules.
 - Do not attempt to decompile, reverse engineer, or modify the app in violation of the license.
-- You are responsible for the content you send to third-party AI providers and must comply with those providers' acceptable-use policies.
+- You are responsible for the third-party rules and media sources you choose to import and access, and must comply with their terms.
 
 ## Privacy
 
